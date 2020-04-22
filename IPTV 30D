@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-17,Gazi Tv
+https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-18,Maasranga
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-19,Asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+#EXTINF:-20,ATN Bangla
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+#EXTINF:-21,ATN News
+https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+#EXTINF:-22,Banglavision TV
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:-23,Boishakhi TV
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:-24,BTV World
+https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+#EXTINF:-25,Channel 9
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:-26,Channel 24
+http://tvserver.roarzone.info:8082/21/index.m3u8
+#EXTINF:-27,Channel I
+https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:-28,DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:-29,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-30,Desh TV
+https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:-31,Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-32,Ekattor TV
+https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+#EXTINF:-33,Ekushey TV
+https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:-34,Independent TV
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-35,Jamuna TV HD 2
+http://tvserver.roarzone.info:8082/30/index.m3u8
+#EXTINF:-36,NTV
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:-37,Nagorik TV
+https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+#EXTINF:-38,RTV
+https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:-39,SA TV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:-1,Gazi TV
+http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
+#EXTINF:-1,ETV
+http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/chunks.m3u8
+#EXTINF:-1,NTV
+http://telelivetv.webredirect.org:8081/globeworld2020/ntv/chunks.m3u8
+#EXTINF:-1,Deepto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
+#EXTINF:-1,Desh TV
+http://telelivetv.webredirect.org:8081/globeworld2020/desh/chunks.m3u8
+#EXTINF:-1,Duronto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/duronto/chunks.m3u8
+#EXTINF:-1,Mohona TV
+http://telelivetv.webredirect.org:8081/globeworld2020/mohona/chunks.m3u8
+#EXTINF:-1,Nagorik TV
+http://telelivetv.webredirect.org:8081/globeworld2020/nagoriktv/chunks.m3u8
